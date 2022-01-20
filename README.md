@@ -1,15 +1,8 @@
-# IdaCallParser
+# Static Behavior Analysis From Malicious API for IDA Pro
 [EN]
-When we making analyze of malicious executable files, sometimes we encounter with some API obfuscation methods.
-In these times, we need extract register calls's adressess. This tool make this for you!
 
- You can use this script with IDA. Go File->Script File and select the script file or u can use 
- ALT+F7 shortcut.
- 
+A plugin developed for IDA Pro that statically analyzes behavior by looking at the APIs used by executable.
+
 [TR]
- Zararlı yazılımları analiz ederken bazen API obfuscation methodlarıyla karşılaşabiliriz. Bu 
- gibi zamanlarda register üzerinden çağırım yapılan adreslere ihtiyacımız oluyor. Bu araç, bu 
- adresleri direkt olarak size çıkarıyor.
- 
-  Bu scriptleri IDA ile kullanabilirsiniz. File->Script File 'tan script dosyasını seçip çalıştırabilirsiniz.
-  Kısayol tuşu olarak da ALT+F7 kullanabilirsiniz.
+
+IDA Pro için geliştirilen, executable'ın kullandığı API'lara bakarak statik olarak davranış analizi yapan bir eklenti.
