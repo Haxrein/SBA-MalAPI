@@ -27,6 +27,7 @@ api_len = len(api_list)
 def print_api(self,prefix,bg):
     global current_api
     global api_list
+    global mal_found
     bg = rand_color()
     current_api += 1
     ret1 = api_check(api_list[current_api])
