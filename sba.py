@@ -71,9 +71,7 @@ def api_check(api):
         cr3 = str(cr1 * prlen)
     
         risk = cr3
-    
-    
-    
+      
     if prlen > 0:
         return api[0]
     else:

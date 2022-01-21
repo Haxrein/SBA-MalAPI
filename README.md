@@ -9,4 +9,4 @@ IDA Pro için geliştirilen, executable'ın kullandığı API'lara bakarak stati
 
 ## Example
 
-![](img/ss1.png)
+![](img/ss_1.png)
