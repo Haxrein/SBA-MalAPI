@@ -6,3 +6,7 @@ A plugin developed for IDA Pro that statically analyzes behavior by looking at t
 [TR]
 
 IDA Pro için geliştirilen, executable'ın kullandığı API'lara bakarak statik olarak davranış analizi yapan bir eklenti. C/C++ destekler.
+
+## Example
+
+![](img/ss1.png)
