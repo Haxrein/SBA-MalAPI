@@ -91,7 +91,7 @@ def print_title(self,prefix,bg):
     mstr9 = ""
     
     self.AddLine("Static Behavior Analysis From Malicious APIs - Beta", fgcolor=prefix, bgcolor=bg)
-    self.AddLine("Support: C/C++", fgcolor=prefix, bgcolor=bg)
+    self.AddLine("Supports: C/C++", fgcolor=prefix, bgcolor=bg)
     self.AddLine(mstr1, fgcolor=prefix, bgcolor=bg)
     self.AddLine(mstr2, fgcolor=prefix, bgcolor=bg)               
     self.AddLine(mstr3, fgcolor=prefix, bgcolor=bg)                
